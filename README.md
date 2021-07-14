@@ -1,2 +1,2 @@
-# ecj-android-example
+# ECJ Android Example
 Example usage of ECJ in android
